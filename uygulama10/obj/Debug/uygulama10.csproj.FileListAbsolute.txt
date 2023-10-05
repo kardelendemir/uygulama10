@@ -1,0 +1,10 @@
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\bin\Debug\uygulama10.exe.config
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\bin\Debug\uygulama10.exe
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\bin\Debug\uygulama10.pdb
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\obj\Debug\uygulama10.csproj.SuggestedBindingRedirects.cache
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\obj\Debug\uygulama10.Form1.resources
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\obj\Debug\uygulama10.Properties.Resources.resources
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\obj\Debug\uygulama10.csproj.GenerateResource.cache
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\obj\Debug\uygulama10.csproj.CoreCompileInputs.cache
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\obj\Debug\uygulama10.exe
+C:\Users\NAGAS0\source\repos\uygulama10\uygulama10\obj\Debug\uygulama10.pdb
